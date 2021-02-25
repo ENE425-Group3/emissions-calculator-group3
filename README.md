@@ -118,8 +118,18 @@ The diary team was asked to solve the following question:
 What other input values would you use to improve your calculations? How would you get them?
 
 App dev possibilities: cost, privacy, accesibility, etc
+Suggestions for app dev: _financial cost per usage based on mode of transportation_; example: walking = 0 emissions, but private car usage would need more data to find out how much gas they burn and turn that into a more complex formula to see both carbon emisssion outtake plus finicnail costs, to see if it is justifed. In addition, the type of car will change the amount of carbon emissions signifincatnly (hybrid vs diesel truck).  
+_Privacy is tough in theory, as many firms/companies/transportation methods would be hesitant to give out secure information_.  
+_Acessibility to forms of transport may be a good indication as to why some people use private cars, busses, e-sccoters, or walk_. A survey or data collection would allow us to see which form of transport is worth pursuing, as well as why some individuals use the easiest option, rather than the cleanest.  
+To summarize App dev possibilites: find the cost associated with different kinds of transpo and the accessiblity for the average citizen.  Privacy maybe be too dfiifcult of a task to include in App Development.  
+
 
 Methodology possibilities: Describe the pros and cons of your **selected model**. [Look for ways to improve selected model]
+
+
+
+Answer to Task 5 from Diary Team:
+
 
 Short recap of App Development: 
 The App development team was asked to: Adjust the code (app.py) to include your team selected method.
