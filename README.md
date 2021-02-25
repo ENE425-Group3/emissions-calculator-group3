@@ -114,6 +114,20 @@ Question 2: What options would you consider to make your app safer against attac
 
 
 ### Week 5 (Calendar Week 9)
+The diary team was asked to solve the following question: 
+What other input values would you use to improve your calculations? How would you get them?
+App dev possibilities: cost, privacy, accesibility, etc
+Methodology possibilities: Describe the pros and cons of your **selected model**. [Look for ways to improve selected model]
+
+Short recap of App Development: 
+The App development team was asked to: Adjust the code (app.py) to include your team selected method.
+
+
+
+Short recap of Methodology:
+The methodology team was asked: Describe the pros and cons of your selected model. Include this info in your teams week 10 presentation. 
+
+
 
 ### Week 6 (Calendar Week 10)
 
