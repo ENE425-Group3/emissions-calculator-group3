@@ -116,7 +116,9 @@ Question 2: What options would you consider to make your app safer against attac
 ### Week 5 (Calendar Week 9)
 The diary team was asked to solve the following question: 
 What other input values would you use to improve your calculations? How would you get them?
+
 App dev possibilities: cost, privacy, accesibility, etc
+
 Methodology possibilities: Describe the pros and cons of your **selected model**. [Look for ways to improve selected model]
 
 Short recap of App Development: 
