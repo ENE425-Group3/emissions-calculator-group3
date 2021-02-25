@@ -195,7 +195,7 @@ class AddRecord(FlaskForm):
   
   submit = SubmitField("Submit")
 
-##Emissions factor per transport in kg per passemger km
+##Emissions factor per transport in kg per passenger km
 ##++++++++++++++++++++++
 efco2={"Bus":{"Diesel":0.10231,"CNG":0.08,"Petrol":0.10231,"No Fossil Fuel":0},
        "Car":{"Hybrid":0.10567,"Petrol":0.18592,"Diesel":0.16453,"No Fossil Fuel":0},
