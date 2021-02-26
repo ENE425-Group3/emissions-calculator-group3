@@ -215,7 +215,7 @@ EM<sub>total</sub> = FE + FC x D
 
 The unit emissions (er in g) is calculated by multiplying EM<sub>total</sub> with the physical weight of the load (w<sub>d</sub>) and divide it by the maximum load (LO<sub>max</sub>) of the vehicle times the average load factor (LF)of the vehicle:
 
-e<sub>r</sub> = EMe<sub>total</sub> * w<sub>d</sub> / LO<sub>max</sub> * LF
+e<sub>r</sub> = EM<sub>total</sub> * w<sub>d</sub> / LO<sub>max</sub> * LF
 
 #### Water Transport
 Covers short-sea transport and inland transport with diesel oil-powered vessels. The calculation of emissions for vessels is dependent on the type of vessel.
