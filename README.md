@@ -201,7 +201,9 @@ e<sub>d</sub> = ∑<sub>z∈Z</sub> EF<sup>z</sup> * D<sup>z</sup> * w
 #### Road Transport
 The total emissions of the vehicle are determined by the fuel consumption of that vehicle, the fuel emissions and the distance.
 
-Fuel consumption (FC in l/km) depends on the load factor (LF) and the type of vehicle.
+Fuel consumption (FC in l/km) depends on the load factor (LF) and the type of vehicle:
+
+FC = FC<sub>empty</sub> + (FC<sub>full</sub> - FC<sub>empty</sub>)LF
 
 The Fuel Emissions factor (FE) is defined as gram of CO<sub>2</sub> emitted per liter of fuel (diesel).
 
