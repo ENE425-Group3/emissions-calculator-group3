@@ -126,8 +126,11 @@ _Privacy is tough in theory, as many firms/companies/transportation methods woul
 _Acessibility to forms of transport may be a good indication as to why some people use private cars, busses, e-sccoters, or walk_. A survey or data collection would allow us to see which form of transport is worth pursuing, as well as why some individuals use the easiest option, rather than the cleanest.  
 
 To summarize App dev possibilites: find the cost associated with different kinds of transpo and the accessiblity for the average citizen.  Privacy maybe be too dfiifcult of a task to include in App Development.  Additional variables app development could include would be :
+
 Scalability (taking the carbon footprint of every 1,000 citizens and scaling to match specific city)
+
 zones of high/low carbon emissions, distance from city or population density that requires transport (will elaborate in meeting)
+
 times of high/low carbon emissions (high traffic hours ((work/school hours, accidents or road maintanence, etc)
 
 
