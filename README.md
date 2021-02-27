@@ -119,11 +119,12 @@ What other input values would you use to improve your calculations? How would yo
 
 App dev possibilities: cost, privacy, accesibility, etc
 Suggestions for app dev: _financial cost per usage based on mode of transportation_; example: walking = 0 emissions, but private car usage would need more data to find out how much gas they burn and turn that into a more complex formula to see both carbon emisssion outtake plus finicnail costs, to see if it is justifed. In addition, the type of car will change the amount of carbon emissions signifincatnly (hybrid vs diesel truck).  
+
 _Privacy is tough in theory, as many firms/companies/transportation methods would be hesitant to give out secure information_.  
 _Acessibility to forms of transport may be a good indication as to why some people use private cars, busses, e-sccoters, or walk_. A survey or data collection would allow us to see which form of transport is worth pursuing, as well as why some individuals use the easiest option, rather than the cleanest.  
 
 To summarize App dev possibilites: find the cost associated with different kinds of transpo and the accessiblity for the average citizen.  Privacy maybe be too dfiifcult of a task to include in App Development.  Additional variables app development could include would be :
-scalability (taking the carbon footprint of every 1,000 citizens and scaling to match specific city)
+Scalability (taking the carbon footprint of every 1,000 citizens and scaling to match specific city)
 Acessibility variables:
 zones of high/low carbon emissions, distance from city or population density that requires transport (will elaborate in meeting)
 times of high/low carbon emissions (high traffic hours ((work/school hours, accidents or road maintanence, etc)
@@ -152,7 +153,7 @@ Additional suggestions: Freight trucks, motorcycles, micro-mobility options
 
 
 Answer to Task 5 from Diary Team: The following suggestions are shown above.  The biggest trouble would be finding out how to calculate these values, as they are not as straightforward or provided in the NTM method.  The app development possibilites would require external data, probably in parternshipship with the government.  One example of a partnership that would provide useful data to our project would be Mobilitetslab for Smarte Transportløsninger (MUST), who provide the city with infastructure and data for the city of Bergen.
-/n https://www.bergen.kommune.no/hvaskjer/tema/must
+https://www.bergen.kommune.no/hvaskjer/tema/must
 
 
 
