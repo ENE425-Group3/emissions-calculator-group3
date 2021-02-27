@@ -118,6 +118,7 @@ The diary team was asked to solve the following question:
 What other input values would you use to improve your calculations? How would you get them?
 
 App dev possibilities: cost, privacy, accesibility, etc
+
 Suggestions for app dev: _financial cost per usage based on mode of transportation_; example: walking = 0 emissions, but private car usage would need more data to find out how much gas they burn and turn that into a more complex formula to see both carbon emisssion outtake plus financial costs, to see if it is justifed. In addition, the type of car will change the amount of carbon emissions significantly (hybrid vs diesel truck).  The base starting point would be to find cost per liter of gas, and apply that to the diesel transportation at first.  The problem would be knowing the cost ratio between liter/km/kr, which varies from each method.   
 
 _Privacy is tough in theory, as many firms/companies/transportation methods would be hesitant to give out secure information_.  
