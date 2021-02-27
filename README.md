@@ -151,7 +151,9 @@ Additional suggestions: Freight trucks, motorcycles, micro-mobility options
 
 
 
-Answer to Task 5 from Diary Team: 
+Answer to Task 5 from Diary Team: The following suggestions are shown above.  The biggest trouble would be finding out how to calculate these values, as they are not as straightforward or provided in the NTM method.  The app development possibilites would require external data, probably in parternshipship with the government.  One example of a partnership that would provide useful data to our project would be Mobilitetslab for Smarte Transportløsninger (MUST), who provide the city with infastructure and data for the city of Bergen.
+/n https://www.bergen.kommune.no/hvaskjer/tema/must
+
 
 
 Short recap of App Development: 
