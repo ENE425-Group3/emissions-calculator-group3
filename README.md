@@ -134,14 +134,16 @@ times of high/low carbon emissions (high traffic hours ((work/school hours, acci
 
 To summarize Methodology possibilities: Describe the pros and cons of your **selected model**. [Look for ways to improve selected model]
 NTM Method (The Network for Transport and Environment)
+
 Cars - Only using diesel, can incorporate hybrid
+
 Bus - Bus fuel used is 5% biodiesel, hybrid and electric city buses exist, not applicable to regional or coach 
+
 Train - Light rail 
+
 Air - Maximizing efficiency in airports (time spent on runway) 
+
 Sea - Adding electric ferrries 
-
-Additional suggestions: Freight trucks, motorcycles, micro-mobility options 
-
 
 
 
