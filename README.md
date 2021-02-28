@@ -94,6 +94,10 @@ Above: Screenshot of Ducky's start page. Very minimalistic and clean.
 
 <img src="notes/Example Ducky graph.png" width="500" height="250"/>
 
+**Colours and text updated**
+Background colour: E9EDEB
+Minor changes done to the text in the app. 
+
 ### Week 4 (Calendar Week 8)
 The main goal for this week is to make sure that the app is up and running. To do this the app development team will connect our Github repository to Heroku. Earlier this week Gabriel invited the people in group 3 to a Heroku Team called “group 3” where the Heroku part of the work will be done from now in. We had one person in the group responsible for this week´s task, as only one app environment is needed within the group. This is what was done:
 
